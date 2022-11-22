@@ -30,7 +30,7 @@
     "mongoose": "^5.2.0",
     "node-fetch": "^2.1.2",
     "read-excel-file": "^2.0.2",
-    "socket.io": "^2.1.1",
+    "socket.io": "^2.5.0",
     "validator": "^10.4.0"
   },
   "engines": {
