@@ -22,7 +22,7 @@
     "csv-reader": "^1.0.3",
     "excel-export": "^0.5.1",
     "excel-parser": "^0.2.2",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "heroku-cli": "^7.0.9",
     "http": "0.0.0",
     "jsonwebtoken": "^8.3.0",
